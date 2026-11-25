@@ -1,3 +1,4 @@
 Hello Git
 I am learning Git
 Day 3: Learning Git history
+Day 7: I learned git pull.
